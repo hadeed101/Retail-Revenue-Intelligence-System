@@ -1,0 +1,501 @@
+order_id,order_date,region,category,product,quantity,price
+1,2023-04-17,East,Electronics,Laptop,4,951.21
+2,2023-05-02,South,Clothing,Jeans,5,600.88
+3,2023-03-29,West,Electronics,Laptop,3,108.98
+4,2023-06-01,North,Electronics,Laptop,5,605.1
+5,2023-09-15,North,Clothing,Jeans,3,30.38
+6,2023-07-11,South,Clothing,Sneakers,4,939.17
+7,2023-11-10,North,Sports,Tennis Racket,4,191.57
+8,2023-02-18,East,Clothing,Sneakers,5,437.63
+9,2023-06-19,South,Home,Sofa,3,615.73
+10,2023-09-28,North,Home,Mixer,4,974.02
+11,2023-09-01,East,Sports,Football,3,388.64
+12,2023-11-03,North,Home,Chair,1,55.99
+13,2023-10-01,West,Sports,Football,5,455.99
+14,2023-01-14,East,Electronics,Smartphone,4,942.78
+15,2023-12-12,North,Clothing,T-Shirt,2,391.56
+16,2023-04-02,North,Clothing,Jacket,5,238.58
+17,2023-09-21,West,Clothing,T-Shirt,4,130.82
+18,2023-02-19,East,Home,Lamp,3,910.23
+19,2023-02-23,East,Clothing,Jacket,4,318.59
+20,2023-07-10,North,Clothing,Jacket,2,572.02
+21,2023-06-11,South,Clothing,Jeans,2,777.38
+22,2023-09-27,East,Sports,Gym Gloves,2,895.88
+23,2023-10-23,North,Clothing,Jacket,4,54.78
+24,2023-12-04,East,Clothing,T-Shirt,5,394.79
+25,2023-08-05,North,Sports,Tennis Racket,5,590.88
+26,2023-02-10,South,Clothing,Jacket,4,610.96
+27,2023-03-06,West,Sports,Gym Gloves,5,804.18
+28,2023-12-10,South,Clothing,Jacket,1,987.02
+29,2023-03-04,West,Clothing,Jacket,1,206.73
+30,2023-06-12,South,Sports,Tennis Racket,3,206.85
+31,2023-09-18,North,Clothing,Sneakers,3,773.56
+32,2023-02-10,South,Electronics,Laptop,2,364.88
+33,2023-11-24,North,Clothing,Sneakers,4,864.47
+34,2023-02-17,West,Sports,Gym Gloves,4,337.59
+35,2023-12-26,North,Home,Mixer,5,732.31
+36,2023-08-15,North,Home,Chair,3,565.63
+37,2023-05-11,South,Home,Lamp,5,971.99
+38,2023-09-12,East,Sports,Football,1,724.51
+39,2023-01-15,East,Clothing,T-Shirt,3,527.51
+40,2023-06-28,East,Clothing,Jeans,2,35.16
+41,2023-04-06,East,Clothing,T-Shirt,1,321.21
+42,2023-08-19,North,Sports,Football,4,908.49
+43,2023-01-29,South,Home,Chair,5,544.44
+44,2023-11-23,North,Electronics,Headphones,4,943.43
+45,2023-10-11,North,Electronics,Tablet,3,697.84
+46,2023-03-03,West,Clothing,Jeans,2,628.11
+47,2023-10-11,West,Clothing,Jacket,1,114.44
+48,2023-12-06,East,Clothing,Jeans,4,226.26
+49,2023-12-14,West,Sports,Tennis Racket,3,331.1
+50,2023-08-13,South,Sports,Football,1,324.82
+51,2023-05-01,East,Clothing,T-Shirt,1,235.66
+52,2023-09-16,South,Electronics,Headphones,4,359.04
+53,2023-06-14,North,Electronics,Laptop,3,423.24
+54,2023-06-21,North,Clothing,T-Shirt,1,128.67
+55,2023-04-06,South,Home,Mixer,3,329.97
+56,2023-11-14,South,Home,Lamp,1,409.8
+57,2023-09-25,South,Clothing,Sneakers,1,261.38
+58,2023-04-11,South,Sports,Gym Gloves,2,715.15
+59,2023-07-06,West,Electronics,Laptop,1,997.76
+60,2023-08-08,West,Home,Lamp,1,976.85
+61,2023-05-06,North,Sports,Football,5,351.62
+62,2023-08-06,East,Electronics,Tablet,2,535.63
+63,2023-07-03,South,Electronics,Headphones,4,90.04
+64,2023-10-21,South,Clothing,Sneakers,3,249.74
+65,2023-07-17,East,Sports,Cricket Bat,5,635.98
+66,2023-05-24,North,Sports,Cricket Bat,3,818.27
+67,2023-07-06,North,Sports,Football,1,159.21
+68,2023-09-09,South,Electronics,Laptop,5,859.78
+69,2023-12-12,West,Clothing,Sneakers,3,228.04
+70,2023-05-28,West,Sports,Cricket Bat,3,811.41
+71,2023-05-08,West,Electronics,Headphones,4,941.12
+72,2023-09-24,East,Electronics,Tablet,2,839.33
+73,2023-05-31,West,Sports,Tennis Racket,4,737.86
+74,2023-09-09,South,Sports,Cricket Bat,2,265.36
+75,2023-03-01,North,Home,Sofa,2,982.35
+76,2023-10-31,North,Electronics,Smartphone,1,249.43
+77,2023-06-09,South,Electronics,Tablet,4,562.71
+78,2023-08-21,South,Electronics,Laptop,3,196.82
+79,2023-07-27,South,Electronics,Laptop,3,703.35
+80,2023-02-23,South,Sports,Football,3,857.76
+81,2023-03-16,West,Electronics,Laptop,1,645.61
+82,2023-04-14,South,Home,Chair,1,170.01
+83,2023-04-22,East,Home,Sofa,4,584.88
+84,2023-12-15,East,Sports,Cricket Bat,1,666.87
+85,2023-12-04,North,Sports,Tennis Racket,2,169.2
+86,2023-07-27,North,Electronics,Tablet,2,694.98
+87,2023-06-10,East,Electronics,Headphones,5,232.03
+88,2023-10-04,North,Clothing,Jacket,4,244.88
+89,2023-05-15,East,Clothing,Jacket,4,372.8
+90,2023-02-02,East,Clothing,Sneakers,3,661.04
+91,2023-01-22,North,Electronics,Smartphone,4,513.73
+92,2023-09-21,North,Clothing,Jacket,5,491.87
+93,2023-10-04,East,Electronics,Headphones,3,440.05
+94,2023-11-13,East,Home,Sofa,1,581.13
+95,2023-07-11,West,Clothing,Jacket,3,576.28
+96,2023-06-21,North,Home,Mixer,1,53.17
+97,2023-02-15,North,Sports,Tennis Racket,4,475.25
+98,2023-08-21,South,Electronics,Smartphone,5,884.66
+99,2023-10-29,West,Home,Sofa,5,929.04
+100,2023-07-07,North,Sports,Football,5,576.57
+101,2023-09-10,North,Electronics,Headphones,1,84.59
+102,2023-06-10,West,Home,Sofa,5,199.0
+103,2023-10-08,East,Clothing,T-Shirt,3,177.8
+104,2023-02-27,East,Home,Mixer,2,936.79
+105,2023-10-07,North,Clothing,Jeans,3,574.36
+106,2023-12-08,South,Home,Lamp,2,618.86
+107,2023-09-30,South,Clothing,Jeans,2,261.62
+108,2023-09-03,South,Sports,Football,1,145.26
+109,2023-01-26,South,Home,Lamp,5,303.55
+110,2023-01-13,North,Home,Sofa,3,263.64
+111,2023-11-09,West,Sports,Football,4,516.23
+112,2023-11-17,West,Clothing,Jeans,4,800.31
+113,2023-05-23,South,Home,Chair,4,887.75
+114,2023-10-15,South,Clothing,T-Shirt,4,583.08
+115,2023-03-04,East,Sports,Tennis Racket,3,470.94
+116,2023-02-27,East,Electronics,Smartphone,5,840.54
+117,2023-11-22,North,Sports,Tennis Racket,1,46.97
+118,2023-09-21,South,Electronics,Smartphone,3,135.79
+119,2023-04-18,North,Home,Mixer,5,278.83
+120,2023-09-19,East,Sports,Tennis Racket,5,462.69
+121,2023-12-16,West,Sports,Football,5,202.44
+122,2023-11-04,North,Clothing,Jacket,3,641.06
+123,2023-04-16,South,Sports,Football,5,969.84
+124,2023-11-15,North,Home,Lamp,3,797.23
+125,2023-12-12,North,Home,Chair,3,444.58
+126,2023-11-14,West,Home,Chair,5,192.49
+127,2023-05-09,East,Home,Lamp,1,691.61
+128,2023-08-27,West,Clothing,Jeans,2,916.06
+129,2023-04-28,East,Sports,Cricket Bat,2,247.39
+130,2023-09-29,East,Sports,Football,1,663.6
+131,2023-03-10,West,Home,Sofa,5,740.52
+132,2023-03-17,West,Home,Lamp,5,425.4
+133,2023-03-27,West,Sports,Cricket Bat,2,362.41
+134,2023-08-08,East,Clothing,T-Shirt,1,348.46
+135,2023-04-04,South,Home,Mixer,5,103.22
+136,2023-08-06,South,Home,Sofa,4,183.58
+137,2023-02-08,North,Clothing,T-Shirt,2,496.7
+138,2023-08-10,North,Clothing,Sneakers,4,181.47
+139,2023-01-10,South,Sports,Gym Gloves,5,404.52
+140,2023-06-29,West,Sports,Gym Gloves,5,887.81
+141,2023-04-06,North,Clothing,Jeans,2,629.6
+142,2023-01-04,South,Electronics,Tablet,1,543.98
+143,2023-06-09,North,Clothing,Sneakers,2,36.25
+144,2023-06-27,West,Clothing,T-Shirt,3,802.94
+145,2023-06-28,East,Clothing,Sneakers,3,646.86
+146,2023-11-19,West,Sports,Gym Gloves,3,942.05
+147,2023-11-26,West,Clothing,Sneakers,1,961.58
+148,2023-01-12,East,Home,Sofa,3,203.83
+149,2023-08-30,East,Sports,Cricket Bat,2,48.57
+150,2023-03-31,East,Sports,Football,3,343.19
+151,2023-03-31,East,Clothing,Jacket,5,846.43
+152,2023-07-15,South,Home,Mixer,2,268.09
+153,2023-03-16,West,Clothing,Jeans,2,699.77
+154,2023-08-05,North,Clothing,Jeans,5,48.79
+155,2023-06-13,East,Sports,Gym Gloves,5,967.9
+156,2023-07-11,North,Sports,Gym Gloves,2,429.24
+157,2023-02-05,West,Clothing,Sneakers,3,990.6
+158,2023-04-06,West,Electronics,Tablet,2,257.52
+159,2023-07-02,East,Electronics,Smartphone,5,246.21
+160,2023-12-21,South,Sports,Gym Gloves,5,742.51
+161,2023-03-03,East,Sports,Cricket Bat,1,383.95
+162,2023-12-08,North,Sports,Gym Gloves,4,828.19
+163,2023-06-26,West,Sports,Tennis Racket,5,896.57
+164,2023-08-21,South,Clothing,Sneakers,4,20.73
+165,2023-10-11,North,Electronics,Tablet,3,100.37
+166,2023-05-24,South,Electronics,Tablet,4,577.7
+167,2023-01-25,North,Sports,Cricket Bat,5,100.79
+168,2023-02-22,East,Home,Lamp,4,675.79
+169,2023-06-30,East,Clothing,Sneakers,1,122.33
+170,2023-08-11,East,Home,Lamp,2,974.51
+171,2023-08-03,North,Sports,Tennis Racket,2,447.12
+172,2023-05-26,North,Sports,Football,5,357.41
+173,2023-09-10,North,Home,Sofa,4,691.15
+174,2023-10-10,South,Electronics,Laptop,5,230.35
+175,2023-01-29,South,Clothing,T-Shirt,2,155.14
+176,2023-05-16,West,Clothing,Jeans,5,240.9
+177,2023-05-25,West,Electronics,Headphones,5,376.94
+178,2023-10-19,South,Home,Chair,1,595.97
+179,2023-12-30,East,Electronics,Headphones,4,92.67
+180,2023-01-19,East,Electronics,Laptop,3,256.24
+181,2023-08-30,South,Sports,Gym Gloves,3,261.15
+182,2023-05-28,North,Electronics,Headphones,4,575.76
+183,2023-12-27,North,Home,Mixer,4,769.52
+184,2023-12-14,East,Home,Lamp,1,684.23
+185,2023-11-08,North,Electronics,Smartphone,1,381.12
+186,2023-05-14,North,Sports,Gym Gloves,1,231.36
+187,2023-06-09,West,Sports,Tennis Racket,2,22.03
+188,2023-05-29,South,Clothing,Sneakers,5,52.73
+189,2023-08-17,West,Home,Lamp,5,993.04
+190,2023-01-20,East,Sports,Tennis Racket,4,558.32
+191,2023-08-21,East,Clothing,T-Shirt,1,527.87
+192,2023-01-01,West,Sports,Cricket Bat,1,698.79
+193,2023-09-16,North,Sports,Tennis Racket,5,699.96
+194,2023-11-26,South,Sports,Tennis Racket,1,916.1
+195,2023-01-08,East,Sports,Cricket Bat,4,115.69
+196,2023-03-31,East,Home,Chair,2,196.24
+197,2023-01-28,South,Home,Mixer,2,237.1
+198,2023-08-16,West,Electronics,Headphones,4,366.74
+199,2023-05-25,West,Sports,Cricket Bat,3,701.18
+200,2023-07-31,North,Sports,Gym Gloves,1,316.43
+201,2023-02-15,South,Electronics,Smartphone,5,687.88
+202,2023-03-23,East,Sports,Cricket Bat,3,824.31
+203,2023-10-30,East,Home,Lamp,3,728.46
+204,2023-11-08,East,Sports,Tennis Racket,1,424.06
+205,2023-01-05,East,Sports,Tennis Racket,2,556.07
+206,2023-05-26,North,Home,Sofa,1,779.83
+207,2023-10-09,North,Clothing,Jacket,1,382.97
+208,2023-10-10,South,Clothing,Jeans,1,970.22
+209,2023-04-08,East,Sports,Tennis Racket,1,839.95
+210,2023-11-07,East,Electronics,Headphones,1,420.67
+211,2023-12-17,South,Clothing,Jacket,4,814.77
+212,2023-01-23,South,Home,Mixer,5,996.67
+213,2023-07-21,North,Home,Mixer,5,728.86
+214,2023-03-26,West,Home,Sofa,2,384.07
+215,2023-02-20,East,Electronics,Laptop,1,137.87
+216,2023-10-15,West,Sports,Gym Gloves,5,610.11
+217,2023-03-13,North,Home,Sofa,2,364.58
+218,2023-04-28,North,Home,Lamp,2,503.18
+219,2023-09-25,West,Electronics,Tablet,3,524.96
+220,2023-08-10,South,Electronics,Laptop,1,556.39
+221,2023-04-22,North,Clothing,Jacket,3,409.45
+222,2023-03-07,West,Clothing,T-Shirt,5,624.11
+223,2023-07-11,West,Clothing,Sneakers,3,220.83
+224,2023-11-02,West,Sports,Tennis Racket,4,980.66
+225,2023-12-01,North,Home,Mixer,2,640.28
+226,2023-11-04,East,Clothing,Jeans,3,100.09
+227,2023-12-01,South,Electronics,Headphones,1,518.85
+228,2023-04-16,South,Clothing,T-Shirt,4,304.98
+229,2023-10-12,West,Electronics,Tablet,3,700.67
+230,2023-11-26,North,Sports,Tennis Racket,4,464.75
+231,2023-03-10,East,Clothing,Jacket,1,265.66
+232,2023-07-24,South,Sports,Football,2,624.6
+233,2023-04-21,West,Home,Sofa,3,583.85
+234,2023-12-02,South,Electronics,Headphones,1,465.52
+235,2023-01-08,North,Home,Sofa,3,147.44
+236,2023-07-03,East,Electronics,Headphones,4,190.06
+237,2023-07-14,North,Home,Lamp,1,897.82
+238,2023-03-02,West,Sports,Tennis Racket,3,670.88
+239,2023-10-04,West,Home,Lamp,2,231.61
+240,2023-06-19,West,Electronics,Laptop,5,351.63
+241,2023-11-22,North,Home,Chair,5,41.49
+242,2023-01-12,North,Electronics,Headphones,1,539.08
+243,2023-03-19,South,Home,Mixer,2,895.28
+244,2023-03-14,East,Sports,Gym Gloves,2,693.49
+245,2023-05-01,West,Clothing,Sneakers,2,801.42
+246,2023-03-02,East,Electronics,Tablet,3,921.66
+247,2023-09-14,East,Sports,Tennis Racket,1,284.11
+248,2023-06-29,East,Electronics,Headphones,1,601.31
+249,2023-03-19,East,Sports,Gym Gloves,2,762.36
+250,2023-01-14,West,Sports,Football,2,750.0
+251,2023-01-07,East,Electronics,Smartphone,3,259.91
+252,2023-08-26,West,Home,Mixer,3,896.25
+253,2023-10-01,West,Electronics,Tablet,3,536.79
+254,2023-01-15,East,Electronics,Headphones,2,360.61
+255,2023-01-28,North,Sports,Gym Gloves,1,740.03
+256,2023-09-30,South,Clothing,Jacket,2,568.33
+257,2023-01-25,West,Home,Lamp,2,539.98
+258,2023-01-25,South,Electronics,Laptop,1,349.5
+259,2023-08-21,North,Clothing,Jacket,4,361.55
+260,2023-08-16,South,Sports,Football,5,484.79
+261,2023-08-24,North,Electronics,Tablet,2,562.16
+262,2023-04-11,East,Clothing,Sneakers,3,384.98
+263,2023-08-14,West,Home,Lamp,4,649.46
+264,2023-12-31,West,Sports,Cricket Bat,3,362.54
+265,2023-05-30,South,Clothing,Sneakers,5,934.35
+266,2023-04-22,East,Clothing,T-Shirt,5,161.33
+267,2023-11-14,East,Sports,Tennis Racket,4,852.31
+268,2023-08-31,East,Electronics,Smartphone,1,89.43
+269,2023-08-11,West,Sports,Cricket Bat,5,982.55
+270,2023-03-16,East,Sports,Tennis Racket,2,580.24
+271,2023-04-28,East,Sports,Gym Gloves,4,15.25
+272,2023-03-03,West,Clothing,Jeans,1,495.84
+273,2023-07-22,North,Clothing,Sneakers,1,721.27
+274,2023-10-27,West,Home,Lamp,2,287.18
+275,2023-04-28,West,Sports,Cricket Bat,5,195.17
+276,2023-08-13,East,Electronics,Headphones,4,431.18
+277,2023-02-16,North,Electronics,Tablet,4,249.99
+278,2023-11-16,South,Sports,Football,1,614.51
+279,2023-12-22,North,Sports,Cricket Bat,5,511.04
+280,2023-06-10,East,Sports,Tennis Racket,5,537.26
+281,2023-09-18,East,Sports,Football,2,459.73
+282,2023-01-13,West,Sports,Tennis Racket,2,990.06
+283,2023-11-15,South,Electronics,Laptop,2,96.99
+284,2023-09-22,North,Home,Sofa,5,12.68
+285,2023-02-07,North,Sports,Football,3,478.43
+286,2023-11-01,East,Sports,Cricket Bat,3,355.38
+287,2023-08-24,East,Electronics,Laptop,5,832.31
+288,2023-05-17,East,Electronics,Smartphone,2,133.05
+289,2023-02-04,South,Home,Lamp,2,189.42
+290,2023-03-01,South,Clothing,Sneakers,1,743.71
+291,2023-12-27,North,Clothing,Jeans,5,148.37
+292,2023-10-13,West,Sports,Cricket Bat,5,209.61
+293,2023-01-05,West,Clothing,Jeans,3,172.62
+294,2023-03-03,East,Home,Lamp,3,668.55
+295,2023-02-11,East,Electronics,Tablet,4,323.03
+296,2023-11-24,West,Clothing,T-Shirt,1,686.15
+297,2023-12-19,West,Home,Chair,3,627.86
+298,2023-08-13,East,Home,Lamp,1,239.89
+299,2023-04-14,West,Clothing,Sneakers,2,548.12
+300,2023-07-17,West,Electronics,Headphones,3,547.42
+301,2023-02-11,East,Home,Chair,3,631.43
+302,2023-06-06,East,Electronics,Tablet,4,796.08
+303,2023-08-19,West,Electronics,Laptop,1,538.13
+304,2023-02-07,East,Home,Sofa,3,790.71
+305,2023-10-16,East,Clothing,Jeans,1,318.6
+306,2023-01-10,North,Clothing,T-Shirt,4,574.19
+307,2023-12-19,North,Home,Lamp,5,878.0
+308,2023-08-16,North,Home,Sofa,5,119.53
+309,2023-07-03,West,Home,Chair,5,136.21
+310,2023-06-06,South,Clothing,Jeans,5,544.46
+311,2023-05-10,South,Home,Chair,4,725.03
+312,2023-08-31,East,Home,Lamp,3,644.74
+313,2023-10-26,West,Home,Mixer,4,547.3
+314,2023-01-11,South,Electronics,Headphones,3,352.24
+315,2023-05-14,North,Sports,Tennis Racket,2,349.1
+316,2023-08-06,East,Sports,Football,2,947.81
+317,2023-07-29,East,Electronics,Tablet,5,147.73
+318,2023-04-14,East,Home,Lamp,1,263.46
+319,2023-12-22,West,Electronics,Headphones,4,597.03
+320,2023-10-20,South,Electronics,Smartphone,4,792.18
+321,2023-10-14,East,Electronics,Tablet,2,773.53
+322,2023-02-20,South,Sports,Football,2,78.23
+323,2023-10-24,East,Electronics,Laptop,5,113.2
+324,2023-10-29,North,Sports,Football,3,456.33
+325,2023-04-20,West,Clothing,Jeans,5,984.99
+326,2023-11-09,West,Sports,Tennis Racket,4,133.42
+327,2023-02-24,North,Clothing,Sneakers,1,871.2
+328,2023-05-29,East,Sports,Gym Gloves,3,595.36
+329,2023-07-21,South,Electronics,Smartphone,1,746.81
+330,2023-06-03,South,Sports,Gym Gloves,4,789.91
+331,2023-09-01,East,Home,Mixer,1,123.12
+332,2023-10-21,West,Home,Mixer,1,864.88
+333,2023-12-13,North,Home,Sofa,2,471.04
+334,2023-12-30,South,Sports,Football,1,591.2
+335,2023-06-01,East,Electronics,Laptop,3,149.45
+336,2023-07-17,South,Clothing,Jeans,1,503.38
+337,2023-06-26,South,Electronics,Headphones,5,915.7
+338,2023-05-30,South,Clothing,Jacket,5,584.78
+339,2023-02-18,South,Electronics,Smartphone,2,22.96
+340,2023-06-26,South,Clothing,Jacket,1,961.46
+341,2023-03-04,South,Electronics,Laptop,4,420.48
+342,2023-11-23,South,Electronics,Smartphone,5,192.62
+343,2023-08-03,South,Home,Mixer,1,316.84
+344,2023-07-30,South,Home,Mixer,3,217.81
+345,2023-10-13,North,Sports,Football,5,628.73
+346,2023-03-19,East,Sports,Gym Gloves,3,75.05
+347,2023-07-13,South,Electronics,Tablet,3,458.76
+348,2023-08-10,West,Electronics,Smartphone,4,486.28
+349,2023-09-21,West,Electronics,Laptop,3,163.69
+350,2023-05-11,North,Sports,Gym Gloves,5,84.75
+351,2023-06-11,North,Sports,Gym Gloves,2,278.04
+352,2023-02-24,South,Electronics,Smartphone,4,802.74
+353,2023-12-15,East,Electronics,Headphones,4,841.39
+354,2023-11-19,East,Home,Lamp,1,556.21
+355,2023-11-24,North,Sports,Gym Gloves,3,510.45
+356,2023-03-08,West,Electronics,Headphones,1,801.92
+357,2023-09-21,West,Sports,Cricket Bat,3,656.22
+358,2023-03-29,West,Home,Lamp,2,807.26
+359,2023-06-14,East,Sports,Football,3,963.02
+360,2023-11-07,East,Sports,Tennis Racket,5,412.33
+361,2023-09-20,West,Home,Sofa,2,22.87
+362,2023-05-27,North,Electronics,Laptop,1,215.81
+363,2023-10-12,North,Electronics,Tablet,5,877.68
+364,2023-10-30,North,Home,Sofa,4,706.91
+365,2023-08-22,West,Home,Mixer,5,348.4
+366,2023-04-29,North,Home,Lamp,2,369.43
+367,2023-10-20,East,Home,Chair,4,832.35
+368,2023-12-21,South,Electronics,Headphones,1,441.77
+369,2023-12-30,North,Sports,Cricket Bat,4,974.8
+370,2023-04-30,North,Home,Chair,1,869.78
+371,2023-05-08,West,Home,Sofa,3,895.61
+372,2023-07-28,North,Electronics,Smartphone,1,489.93
+373,2023-08-25,East,Clothing,Jacket,1,546.22
+374,2023-09-03,North,Home,Chair,1,265.31
+375,2023-06-03,West,Clothing,Jeans,3,427.49
+376,2023-04-08,North,Electronics,Headphones,2,901.57
+377,2023-05-26,West,Electronics,Headphones,5,28.21
+378,2023-02-10,East,Sports,Gym Gloves,5,816.9
+379,2023-06-02,East,Clothing,Jacket,2,558.64
+380,2023-04-27,North,Home,Mixer,2,723.0
+381,2023-01-27,North,Clothing,Jeans,2,148.62
+382,2023-08-07,West,Electronics,Smartphone,1,273.83
+383,2023-11-05,West,Sports,Gym Gloves,2,604.51
+384,2023-07-09,South,Sports,Tennis Racket,2,915.27
+385,2023-05-10,West,Electronics,Smartphone,2,427.82
+386,2023-07-12,West,Electronics,Smartphone,4,959.04
+387,2023-10-09,South,Home,Mixer,3,99.43
+388,2023-10-23,North,Sports,Football,5,395.4
+389,2023-04-23,South,Clothing,Jacket,3,362.12
+390,2023-08-15,East,Clothing,Jacket,3,304.15
+391,2023-06-01,North,Home,Mixer,2,402.68
+392,2023-09-07,South,Sports,Gym Gloves,5,488.92
+393,2023-08-15,South,Clothing,Sneakers,4,544.44
+394,2023-12-31,West,Home,Mixer,4,60.91
+395,2023-06-03,North,Electronics,Tablet,3,340.9
+396,2023-07-20,East,Sports,Football,2,115.53
+397,2023-03-02,West,Sports,Gym Gloves,1,418.67
+398,2023-01-25,West,Home,Mixer,3,602.3
+399,2023-08-17,South,Electronics,Smartphone,3,820.91
+400,2023-04-12,North,Sports,Tennis Racket,4,697.75
+401,2023-04-11,South,Sports,Football,2,112.06
+402,2023-11-01,North,Sports,Gym Gloves,4,809.36
+403,2023-02-26,East,Sports,Tennis Racket,5,792.11
+404,2023-11-14,South,Clothing,Jacket,1,193.28
+405,2023-05-29,South,Electronics,Laptop,3,734.9
+406,2023-07-17,South,Home,Chair,1,662.2
+407,2023-09-25,South,Clothing,T-Shirt,1,904.33
+408,2023-12-31,South,Home,Sofa,3,987.79
+409,2023-09-23,South,Clothing,T-Shirt,2,49.03
+410,2023-03-27,West,Sports,Gym Gloves,1,188.77
+411,2023-12-01,South,Home,Chair,2,319.73
+412,2023-06-25,West,Sports,Football,5,733.71
+413,2023-03-23,East,Sports,Tennis Racket,2,427.55
+414,2023-04-13,North,Electronics,Smartphone,4,846.1
+415,2023-06-01,West,Home,Lamp,1,653.67
+416,2023-10-28,East,Electronics,Laptop,3,565.07
+417,2023-06-20,North,Home,Mixer,2,886.15
+418,2023-12-30,North,Sports,Gym Gloves,2,727.52
+419,2023-07-29,East,Sports,Cricket Bat,1,543.02
+420,2023-04-18,North,Sports,Cricket Bat,1,887.12
+421,2023-06-19,East,Sports,Football,2,34.16
+422,2023-09-04,North,Electronics,Headphones,2,31.06
+423,2023-04-06,West,Clothing,Sneakers,5,533.65
+424,2023-10-29,East,Clothing,Jacket,3,79.33
+425,2023-11-14,West,Home,Lamp,4,62.16
+426,2023-09-29,East,Home,Mixer,5,484.98
+427,2023-09-23,North,Electronics,Smartphone,4,984.24
+428,2023-12-06,East,Sports,Tennis Racket,1,343.01
+429,2023-06-26,North,Clothing,Jacket,5,734.95
+430,2023-06-07,East,Clothing,Jacket,3,472.64
+431,2023-10-20,North,Sports,Cricket Bat,2,303.35
+432,2023-03-14,East,Home,Lamp,1,284.49
+433,2023-05-20,West,Clothing,T-Shirt,1,397.71
+434,2023-03-02,East,Home,Mixer,3,950.46
+435,2023-07-17,South,Home,Sofa,5,98.52
+436,2023-08-14,South,Home,Lamp,3,904.69
+437,2023-09-17,South,Clothing,Jeans,1,745.92
+438,2023-12-15,North,Electronics,Smartphone,3,407.56
+439,2023-11-26,South,Electronics,Smartphone,5,832.34
+440,2023-08-06,South,Sports,Cricket Bat,3,184.76
+441,2023-09-16,West,Clothing,Jeans,1,194.57
+442,2023-02-16,East,Electronics,Tablet,5,67.26
+443,2023-01-20,East,Clothing,Sneakers,1,523.08
+444,2023-06-27,South,Sports,Cricket Bat,2,529.78
+445,2023-08-04,South,Home,Lamp,2,699.06
+446,2023-09-26,West,Home,Lamp,3,817.67
+447,2023-11-25,West,Home,Lamp,5,541.6
+448,2023-04-08,South,Clothing,Jeans,4,584.29
+449,2023-11-19,West,Home,Mixer,3,878.69
+450,2023-05-17,North,Home,Mixer,3,138.22
+451,2023-11-28,South,Home,Mixer,3,956.09
+452,2023-02-09,South,Home,Lamp,2,811.42
+453,2023-08-14,South,Sports,Football,1,555.35
+454,2023-11-24,North,Sports,Tennis Racket,4,378.96
+455,2023-03-31,West,Sports,Football,3,726.19
+456,2023-11-12,West,Home,Sofa,2,90.24
+457,2023-03-22,South,Electronics,Smartphone,5,895.54
+458,2023-08-12,North,Electronics,Smartphone,2,500.2
+459,2023-11-19,South,Home,Sofa,5,907.45
+460,2023-08-25,West,Electronics,Smartphone,2,548.34
+461,2023-05-27,West,Clothing,Sneakers,1,879.84
+462,2023-02-28,North,Electronics,Laptop,4,852.08
+463,2023-02-14,South,Home,Sofa,1,340.67
+464,2023-12-22,East,Sports,Football,1,930.79
+465,2023-01-07,North,Clothing,Jacket,3,755.19
+466,2023-11-10,West,Electronics,Headphones,5,882.06
+467,2023-01-23,North,Sports,Football,1,38.95
+468,2023-12-29,South,Sports,Football,2,137.58
+469,2023-03-23,West,Clothing,Jacket,5,746.07
+470,2023-03-18,South,Electronics,Smartphone,4,560.62
+471,2023-08-12,North,Sports,Cricket Bat,5,266.1
+472,2023-04-23,North,Home,Mixer,5,620.76
+473,2023-08-11,North,Sports,Gym Gloves,1,635.5
+474,2023-12-10,East,Sports,Tennis Racket,2,637.67
+475,2023-11-22,North,Electronics,Smartphone,5,782.05
+476,2023-03-15,North,Home,Sofa,3,763.42
+477,2023-11-15,North,Home,Sofa,1,963.36
+478,2023-08-10,South,Home,Chair,4,636.3
+479,2023-07-15,South,Sports,Gym Gloves,5,111.48
+480,2023-08-30,West,Clothing,T-Shirt,4,691.01
+481,2023-01-17,South,Electronics,Smartphone,4,307.95
+482,2023-07-12,North,Electronics,Headphones,4,76.68
+483,2023-07-29,West,Home,Chair,2,83.95
+484,2023-06-24,North,Sports,Tennis Racket,2,990.25
+485,2023-09-08,East,Clothing,Jacket,5,451.5
+486,2023-01-07,East,Electronics,Smartphone,3,598.45
+487,2023-05-14,West,Electronics,Smartphone,5,31.9
+488,2023-01-26,West,Sports,Gym Gloves,3,259.98
+489,2023-10-12,West,Home,Sofa,2,280.89
+490,2023-02-08,East,Sports,Tennis Racket,4,431.92
+491,2023-10-15,North,Electronics,Tablet,5,696.75
+492,2023-03-25,East,Sports,Cricket Bat,2,775.09
+493,2023-12-03,North,Home,Mixer,3,280.53
+494,2023-01-21,East,Home,Chair,4,40.99
+495,2023-09-19,South,Sports,Gym Gloves,5,642.14
+496,2023-09-14,West,Sports,Tennis Racket,3,281.47
+497,2023-01-15,West,Electronics,Smartphone,2,895.16
+498,2023-11-16,North,Home,Mixer,2,220.97
+499,2023-01-12,South,Sports,Tennis Racket,1,655.15
+500,2023-07-27,West,Electronics,Headphones,2,865.71
